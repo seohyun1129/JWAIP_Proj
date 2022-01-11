@@ -10,7 +10,7 @@
 
 ## 링크
 
-##### Notion
+#### Notion
 
 - 회의록 : https://gusty-snowflake-455.notion.site/80fa15dd9f7f473dbf8501b0886db6aa?v=bcbadd503d7b466fade64910adbb272a
 - 비교분석표 : 추후 업데이트
